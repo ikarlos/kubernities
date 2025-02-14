@@ -1,0 +1,5 @@
+# Example requirements.txt file
+
+# Core dependencies
+flask==2.3.2
+redis==5.0.0
